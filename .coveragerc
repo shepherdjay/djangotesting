@@ -1,6 +1,8 @@
 [run]
 branch = True
-source = djangotesting
+source = 
+    djangotesting
+    helloworld
 
 [report]
 exclude_lines =
